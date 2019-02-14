@@ -1,6 +1,12 @@
 # v2hero  [![Build Status](https://travis-ci.org/onplus/v2hero.svg?branch=core-3.1)](https://travis-ci.org/onplus/v2hero)
 本项目是一个利用Travis-CI部署Docker到Heroku 的学习示例。
 
+More options --> settings 添加Environment Variables：
+HEROKU_APPNAME 步骤一的appname
+HEROKU_EMAIL 注册heroku的邮箱
+HEROKU_APIKEY API Key不是Heroku密码
+
+如果appname和邮箱存在特殊字符会导致build失败，需要用反斜杠 \ 转义
 如果为您的学习提供了帮助，欢迎给一个Star ^_^
 
 * 部署方法
