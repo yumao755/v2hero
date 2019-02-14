@@ -2,7 +2,7 @@
 本项目是一个利用Travis-CI部署Docker到Heroku 的学习示例。
 
 More options --> settings 添加Environment Variables：
-HEROKU_APPNAME 步骤一的av2rayherollkjklkkppname
+HEROKU_APPNAME 步骤一的av2rayherollkjklkkppnamv2herofgtddfe
 HEROKU_EMAIL 注册heroku的邮箱
 HEROKU_APIKEY API Key不是Heroku密码
 
